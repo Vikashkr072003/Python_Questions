@@ -1,0 +1,3 @@
+Q1. Age gruop categorization
+-> Classify a person age gruop : Child < 13, teenager 13-19, Adult 20 - 59, Senior 60+
+Q2. Moive Ticket Pricing
