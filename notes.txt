@@ -1,3 +1,29 @@
 Q1. Age gruop categorization
 -> Classify a person age gruop : Child < 13, teenager 13-19, Adult 20 - 59, Senior 60+
-Q2. Moive Ticket Pricing
+
+Q2. Moive Ticket Pricing.
+->Problem : Moive Tickets and priced based on age $20 for Adult(18 and over), $8 for Children.Everyone gets a $2 discount on Wednesday.
+
+Q3. Grade Calculator 
+->Problem : Assign a letter grade based on a student's score: A(90-100), B(80-89), C(70-79), D(60-69), F(Below 60).
+
+Q4. Fruit Ripeness Checker.
+->Problem : Determine if a Fruit is ripe,overripe, or uniripe based on its color.(e.g, Banana: Green-uniripe, Yellow - Ripe, Brown-Overipe).
+
+Q5. Weather acitivity Suggestion.
+->Problem : Suggest an acitivity based on the Weather (e.g, Sunny - Go for a walk, Rainy - Read a Book, snowy- Build a snowman.)
+
+Q6. Transportation Mode Section.
+->Problem : Choose a mode of Transportation based on the distance(e.g,, <3km: Walk, 3-15km: Bike, >15km: Car).
+
+Q7. Coffee Customization
+->Problem : Customize a coffee order : "Small,"Medium", or "Large" with an option for "Extra shot" of espresso.
+
+Q8. Password Strength Checker.
+->Problem : Check if a Password is "Weak","Medium", or "Strong". Criteria: < 6 chars(Weak), 6-10 chars(Medium), and > 10 chars(Strong).
+
+Q9. Leap Year Checker.
+->Problem : Determine if a year is a Leap year.(Leap years are divisible by 4, but not by 100 unless also divisible by 400).
+
+10. Pet Food Recommendation.
+->Problem : Pet - dog and cat or year 2,5 and other print recommed puppy cat and puppy cat. other adult and Senior
